@@ -1,2 +1,2 @@
-bootstrap-boilerplate
+Bootstrap Boilerplate
 =====================
